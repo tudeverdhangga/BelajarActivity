@@ -1,0 +1,4 @@
+#Thu Oct 08 15:27:12 SGT 2020
+base.0=D\:\\Data Kuliah\\Matkul\\Semester 5\\Pemrograman Bergerak\\Project\\BelajarActivity\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
